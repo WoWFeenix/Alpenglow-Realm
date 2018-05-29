@@ -4,12 +4,12 @@ about: Bugs related to Warsong Realm.
 
 ---
 
-**When it occured: **
+**When it occured**
 
-**Description: **
+**Description**
 
-**How it works: **
+**How it works**
 
-**How it should work: **
+**How it should work**
 
-**Link to WoWHead/WoWWiki: **
+**Link to WoWHead/WoWWiki**
