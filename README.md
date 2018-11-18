@@ -1,4 +1,4 @@
-# Warsong Realm BugTracker
+# Alpenglow Realm BugTracker
 
 This Tracker is only for bugs related to the Warsong realm.
 Any other reports will be deleted.
