@@ -1,6 +1,6 @@
 ---
-name: "# Warsong Realm BugTracker"
-about: Bugs related to Warsong Realm.
+name: "# Alpenglow Realm BugTracker"
+about: Bugs related to Alpenglow Realm.
 labels: 
 
 ---
